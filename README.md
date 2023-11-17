@@ -17,7 +17,7 @@ e por mais que eu não consiga entregar tudo no TCC eu pretendo continuar estuda
 ção continuar na área.
 
 Aqui está o link da landing page:
-
+https://github.com/gabeJSS/SITE-GRAMAVERDE
 
 Aqui está o link do meu projeto feito em Prisma (CRUD está completo só falta conectar com front-end que ainda está sendo feito):
 https://github.com/gabeJSS/BackEnd-Prisma
