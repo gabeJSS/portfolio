@@ -16,3 +16,11 @@ Atualmente estou estudando várias coisas, principalmente sobre o back-end de JS
 e por mais que eu não consiga entregar tudo no TCC eu pretendo continuar estudando sobre e melhorando o app, por que é minha inten-
 ção continuar na área.
 
+Aqui está o link da landing page:
+
+
+Aqui está o link do meu projeto feito em Prisma (CRUD está completo só falta conectar com front-end que ainda está sendo feito):
+https://github.com/gabeJSS/BackEnd-Prisma
+
+E aqui está o Grama Verde (cuida dele com carinho para mim :) ):
+https://github.com/gabeJSS/GramaVerde
